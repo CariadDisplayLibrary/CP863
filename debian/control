@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: CP863.h
-Description: CP863 (VGA Code Page 863) font for DisplayCore
+Description: CP863 (VGA Code Page 863)
